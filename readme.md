@@ -5,4 +5,4 @@ This is a sample project to create go microservice.
 Please follow this stackoverflow link.
 
 # Hosting
-Checkout this code at $GOPATH/src. Then run it in your favourite IDE or from command line.
+Checkout this code at $GOPATH/src/Practise/goStudentService. Then run it in your favourite IDE or from command line.
